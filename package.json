@@ -1,0 +1,15 @@
+{
+  "name": "project-full-stack",
+  "version": "1.0.0",
+  "description": "sourav make a full stack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sourav",
+    "fullstack"
+  ],
+  "author": "sourav",
+  "license": "ISC"
+}
