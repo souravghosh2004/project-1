@@ -11,5 +11,8 @@
     "fullstack"
   ],
   "author": "sourav",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
